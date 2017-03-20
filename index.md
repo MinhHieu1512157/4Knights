@@ -1,5 +1,4 @@
 # Project1-4Knights
-Project1-4Knights created by GitHub Classroom
 
 ## Danh sách thành viên nhóm:
    * Phạm Khoa Nam      | 1612408

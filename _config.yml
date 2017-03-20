@@ -1,8 +1,8 @@
 theme: jekyll-theme-merlot
 title: Project 4Knights
-description: Project 4Knights Demo Page
+description: Project 4Knights Demo Page 1
 
 ---
 title: My page
-permalink: about.html
+permalink: /about.html
 ---

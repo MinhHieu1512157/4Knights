@@ -2,11 +2,11 @@
 Project1-4Knights created by GitHub Classroom
 
 ## Danh sách thành viên nhóm:
-   * Phạm Khoa Nam     | 1612408
-   * Nguyễn Bữu Lộc    | 1612343
-   * Nguyễn Thanh Trí  | 1612722
-   * Phan Minh Sơn     | 1612888
-   * Nguyễn Thanh Tuấn | 1612774
+   * Phạm Khoa Nam      | 1612408
+   * Nguyễn Bữu Lộc     | 1612343
+   * Nguyễn Thanh Trí   | 1612722
+   * Phan Minh Sơn      | 1612888
+   * Nguyễn Thanh Tuấn  | 1612774
 
 ## Ý tưởng của nhóm: Hệ thống tính tiền điện nước tự động và thanh toán nhanh tại kí túc xá Đại học Quốc gia
 

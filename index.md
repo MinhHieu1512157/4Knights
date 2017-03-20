@@ -1,5 +1,8 @@
 # Project1-4Knights
-
+---
+title: My page
+permalink: /about.html
+---
 ## Danh sách thành viên nhóm:
    * Phạm Khoa Nam      | 1612408
    * Nguyễn Bữu Lộc     | 1612343

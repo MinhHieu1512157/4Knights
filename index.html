@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Creative - Start Bootstrap Theme</title>
+    <title>Project 1 - 4Knights</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -31,6 +31,9 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+    <style>
+    tab { padding-left: 4em; }
+    </style>
 
 </head>
 
@@ -43,20 +46,20 @@
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">Start Bootstrap</a>
+                <a class="navbar-brand page-scroll" href="#page-top">Get Started</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a class="page-scroll" href="#about">About</a>
+                        <a class="page-scroll" href="#about">Thành viên</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#services">Services</a>
+                        <a class="page-scroll" href="#services">Nội dung</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#portfolio">Portfolio</a>
+                        <a class="page-scroll" href="#portfolio">Hình ảnh</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
@@ -71,9 +74,10 @@
     <header>
         <div class="header-content">
             <div class="header-content-inner">
-                <h1 id="homeHeading">Your Favorite Source of Free Bootstrap Themes</h1>
+                <h1 id="homeHeading">Project 1 - 4 Knights Group</h1>
                 <hr>
-                <p>Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!</p>
+                <h2> Ý tưởng của nhóm </h2>
+                <p>Hệ thống tính tiền điện nước tự động và thanh toán nhanh tại kí túc xá Đại học Quốc gia</p>
                 <a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
             </div>
         </div>
@@ -83,10 +87,16 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">We've got what you need!</h2>
+                    <h2 class="section-heading">Danh sách thành viên nhóm</h2>
                     <hr class="light">
-                    <p class="text-faded">Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!</p>
-                    <a href="#services" class="page-scroll btn btn-default btn-xl sr-button">Get Started!</a>
+                    <ul>
+                        <li> Phạm Khoa Nam <tab> 1612408 </tab> </li>
+                        <li> Nguyễn Bữu Lộc <tab> 1612343 </tab> </li>
+                        <li> Nguyễn Thanh Trí <tab> 1612722 </tab> </li>
+                        <li> Phan Minh Sơn <tab> 1612888 </tab> </li>
+                        <li> Nguyễn Thanh Tuấn <tab> 1612774 </tab> </li>
+                    </ul>
+                    <!--<a href="#services" class="page-scroll btn btn-default btn-xl sr-button">Get Started!</a> -->
                 </div>
             </div>
         </div>
@@ -96,12 +106,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">At Your Service</h2>
+                    <h2 class="section-heading">Nội dung project</h2>
                     <hr class="primary">
                 </div>
             </div>
         </div>
-        <div class="container">
+        <!-- <div class="container">
             <div class="row">
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
@@ -132,6 +142,30 @@
                     </div>
                 </div>
             </div>
+        </div> -->
+        <div> 
+            <h2> Làm gì? </h2>
+              <p>
+                  Xây dựng một hệ thống tự động trong việc đo lường và tính toán tiền điện nước tại kí túc xá (KTX) ĐH Quốc gia sau đó gửi thông tin về cơ sở dữ liệu trung tâm để trưởng nhà và ban điều hành kí túc xá dễ dàng quản lí, cùng với đó là một hệ thống thanh toán tiền ngay tại mỗi tòa nhà trong kí túc xá.</p>
+        </div>
+        <div>
+            <h2> Tại sao làm? </h2> 
+            <ul>
+                <li> Hiện nay trong KTX, việc quản lí tiền điện nước sử dụng hàng tháng tại các phòng trong mỗi tòa nhà tốn rất nhiều thời gian và công sức. Trưởng nhà - người quản lí của mỗi tòa nhà phải dùng giấy bút đến từng phòng để ghi lại số đo trên đồng hồ điện nước, sau đó phải nhập lại vào máy tính để gửi về ban quản lí KTX. </li>
+
+                <li> Cùng với đó, việc thanh toán tiền lệ phí phòng ở cũng như tiền điện nước vì chỉ có một văn phòng chịu trách nhiệm thanh toán, vì vậy sinh viên thường phải xếp hàng đợi đến lượt mình đóng tiền. Ngoài ra, do không được nhắc nhở nên thường xảy ra những trường hợp sinh viên quên đóng tiền điện nước. </li>
+            </ul>
+        </div>
+        <div>
+            <h2> Giải pháp </h2>
+            <ul>
+                <li> Lắp đặt một hệ thống bao gồm: thiết bị lấy số liệu điện nước, một chương trình tính phí điện nước, một cơ sở dữ liệu đặt tại mỗi tòa nhà, thiết bị thanh toán tại tầng trệt mỗi tòa nhà (vd: máy quẹt thẻ ATM). </li>
+                <li> Xây dựng một app di động giúp sinh viên và trưởng nhà có thể tra cứu thông tin mọi lúc mọi nơi, nhắc nhở sinh viên mỗi khi đến hạn đóng tiền. </li>
+            </ul>
+        </div>
+        <div>
+            <h2> Đối tượng hướng đến </h2>
+            <p> Người quản lý và sinh viên đang sống và làm việc trong KTX Đại học Quốc Gia </p>
         </div>
     </section>
 

@@ -31,3 +31,9 @@ Project1-4Knights created by GitHub Classroom
      
 ### Đối tượng hướng đến
    * Người quản lí và sinh viên đang sinh sống tại KTX ĐH Quốc Gia
+
+### Các loại đối tượng người dùng của hệ thống và tác động của hệ thống đối với lợi ích của họ
+ #### Sinh viên đang sinh sống tại KTX
+   * Vì nhằm mục tiêu tự động hóa đến mức tối đa, hệ thống sẽ giúp cho công việc đóng phí điện nước của sinh viên trở nên đơn giản, tiện      lợi hơn, tiết kiệm nhiều thời gian, công sức.
+   * Ngoài ra, nhờ một số tiện ích khác như theo dõi mức sử dụng điện nước qua các tháng kèm theo tiền lệ phí đã đóng hàng tháng, sinh        viên có thể dễ dàng lên kế hoạch sử dụng điện nước cho hợp lí.
+ #### Ban quản lí KTX

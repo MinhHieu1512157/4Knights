@@ -59,6 +59,7 @@ Project1-4Knights created by GitHub Classroom
     * Phần mềm thanh toán 
  #### Sơ đồ chi tiết của hệ thống
     * Sau đây là sơ đồ chi tiết của hệ thống, cách lặp đặt hệ thống cũng có thể được rút ra từ sơ đồ này:
+   ![GitHub Logo](/SoDoHeThong_4Knights.png)
  
 ### Quy trình sử dụng hệ thống của người dùng
     * Do các phần việc của trường nhà và nhân viên thu ngân đã được tự động hóa hoàn toàn nên quy trình này chỉ để cập đến đối tượng người dùng còn lại đó chính là sinh viên:

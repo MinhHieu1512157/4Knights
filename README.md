@@ -62,3 +62,5 @@ Project1-4Knights created by GitHub Classroom
  
 ### Quy trình sử dụng hệ thống của người dùng
     * Do các phần việc của trường nhà và nhân viên thu ngân đã được tự động hóa hoàn toàn nên quy trình này chỉ để cập đến đối tượng người dùng còn lại đó chính là sinh viên:
+    ![GitHub Logo](/WorkFlow.png)
+    Format: ![All Text](url)

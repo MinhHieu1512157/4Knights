@@ -22,6 +22,7 @@ Project1-4Knights created by GitHub Classroom
    * Cùng với đó, việc thanh toán tiền lệ phí phòng ở cũng như tiền điện nước vì chỉ có một văn phòng chịu trách nhiệm
      thanh toán, vì vậy sinh viên thường phải xếp hàng đợi đến lượt mình đóng tiền. Ngoài ra, do không được nhắc nhở nên
      thường xảy ra những trường hợp sinh viên quên đóng tiền điện nước.
+     ![GitHub Logo](/HienTrang.png)
  
 ### Giải pháp chung
    * Lắp đặt một hệ thống bao gồm: thiết bị lấy số liệu điện nước, một chương trình tính phí điện nước, một cơ sở dữ liệu 
